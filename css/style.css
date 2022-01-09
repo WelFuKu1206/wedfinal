@@ -102,10 +102,10 @@ img {
 	text-transform: uppercase;
 }
 #header div ul li.selected a, #header div ul li.selected a:hover {
-	color: #cb3362;
+	color: #305206;
 }
 #header div ul li a:hover, #header div ul li.menu:hover ul li a {
-	color: #c8c10d;
+	color: #9e0000;
 }
 #header div ul li ul li a {
 	color: #cb3362;
