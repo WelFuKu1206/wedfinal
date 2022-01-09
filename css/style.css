@@ -1020,7 +1020,7 @@ img {
 }
 /*----------------------------------------footer-styles---------------------------------------*/
 #footer {
-	background-color: #cb3362;
+	background-color: #000000;
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -1053,7 +1053,7 @@ img {
 	width: 240px;
 }
 #footer div .connect a {
-	background: url(../images/icons.png) no-repeat;
+	background: url(../icons2.png) no-repeat;
 	display: block;
 	float: left;
 	height: 30px;
